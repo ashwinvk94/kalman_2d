@@ -1,0 +1,9 @@
+<launch>
+   <!-- launching measurement publisher -->
+   <!-- replace this node with your data publisher -->
+  <node pkg="kalman_2d" type="kalman" name="kalman" required="true" output="screen">
+  </node>  
+  <node pkg="kalman_2d" type="measurement_publisher" name="measurement_publisher" output="screen">
+  </node>
+
+</launch>
