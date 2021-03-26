@@ -31,3 +31,6 @@ The ROS_INFO_STREAM outputs should show:
 You can also visualize the outputs using [rqt_graph](http://wiki.ros.org/rqt_graph)
 
 ![alt text](https://github.com/ashwinvk94/kalman_2d/blob/main/filtered.png?raw=true)
+
+## Instructions
+![alt text](https://github.com/ashwinvk94/kalman_2d/blob/main/kalman_equations.png?raw=true)
